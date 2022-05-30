@@ -1,0 +1,5 @@
+enemyOlustur() metodu çalıştığında düşmanları oluşturuyor 
+bu oluşan düşmanların resim dosyasını yolunu belirtiyoruz 
+ben kendi bilgisayarımdaki resmin dosya yolunu yazmıştım 
+sizde çalışması için resmin dosya yolu tekrar yazılması gerekiyor
+Örnek : enemy.Image = Image.FromFile("C:\Users\serhat\source\repos\VizeOdevi\VizeOdevi\enemy.png")
